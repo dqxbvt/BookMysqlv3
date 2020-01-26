@@ -20,3 +20,5 @@ C:\Users\Test\Desktop\BookTest\obj\Debug\BookTest.csproj.CoreCompileInputs.cache
 C:\Users\Test\Desktop\BookTest\obj\Debug\BookTest.csproj.CopyComplete
 C:\Users\Test\Desktop\BookTest\obj\Debug\BookTest.dll
 C:\Users\Test\Desktop\BookTest\obj\Debug\BookTest.pdb
+C:\Users\Test\Documents\GitHub\BookMysqlv3\BookTest\obj\Debug\BookTest.dll
+C:\Users\Test\Documents\GitHub\BookMysqlv3\BookTest\obj\Debug\BookTest.pdb

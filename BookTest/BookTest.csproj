@@ -59,7 +59,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\bookMysqlC#\bookMysql.csproj">
+    <ProjectReference Include="..\bookMysql.csproj">
       <Project>{ddff58f8-7735-48f6-9c25-3869c0f01496}</Project>
       <Name>bookMysql</Name>
     </ProjectReference>

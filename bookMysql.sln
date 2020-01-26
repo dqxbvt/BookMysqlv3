@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bookMysql", "bookMysql.csproj", "{DDFF58F8-7735-48F6-9C25-3869C0F01496}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookTest", "..\BookTest\BookTest.csproj", "{BDA9F986-56D2-4EE3-AD75-DAD8B37E79B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookTest", "BookTest\BookTest.csproj", "{BDA9F986-56D2-4EE3-AD75-DAD8B37E79B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
